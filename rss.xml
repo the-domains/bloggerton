@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[bloggerton]]></title>
-        <description><![CDATA[bloggerton]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Greg Bolton, JAM3 CD]]></title>
+        <description><![CDATA[Greg Bolton, JAM3 CD]]></description>
+        <link>https://thegrid.ai/bloggerton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 14:14:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 Nov 2015 14:23:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bloggerton/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meet Boltron - Jam3]]></title>
+            <description><![CDATA[<article><h1>Meet Boltron - Jam3</h1><p>We're proud to announce the arrival of our new Creative Director, Greg Bolton, better known in our Slack channels as Boltron (true story bro). Greg brings more than 15 years of experience in the advertising and marketing business. He's held creative leadership positions at top-tier global agencies like Leo Burnett and Edelman.</p><img src="http://www.jam3.com/wp-content/uploads/2015/11/Greg-Bolton-e1446057330709.jpeg"></article>]]></description>
+            <link>http://www.jam3.com/post/2015/11/meet-boltron/</link>
+            <guid isPermaLink="false">63d12700-b133-4cff-a03a-016ec0a90f55</guid>
+            <pubDate>Mon, 16 Nov 2015 14:22:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://briananglin.me/wp-content/uploads/2013/11/helloworld.jpg">]]></description>
+            <link>https://thegrid.ai/bloggerton/1865ffb0-ffad-4b00-8441-69222826531a/index.html</link>
+            <guid isPermaLink="false">1865ffb0-ffad-4b00-8441-69222826531a</guid>
+            <pubDate>Mon, 16 Nov 2015 14:14:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello World]]></title>
             <description><![CDATA[<article><h1>Hello World</h1><p>Here we go. I'm publishing my first-ever post on The Grid. Let's see how this shit shakes out.</p></article>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/bloggerton/hello-world/index.html</link>
             <guid isPermaLink="false">6f01f923-b005-463b-9abe-ef7a672787b9</guid>
             <pubDate>Mon, 16 Nov 2015 14:14:50 GMT</pubDate>
         </item>
