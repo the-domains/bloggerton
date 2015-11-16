@@ -4,21 +4,21 @@
         <description><![CDATA[Greg Bolton, JAM3 CD]]></description>
         <link>https://thegrid.ai/bloggerton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 14:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2015 14:31:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bloggerton/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <description><![CDATA[<article><h1>Hello World</h1><p>Here we go. I'm publishing my first-ever post on The Grid. Let's see how this shit shakes out.</p></article>]]></description>
+            <link>https://thegrid.ai/bloggerton/hello-world/index.html</link>
+            <guid isPermaLink="false">6f01f923-b005-463b-9abe-ef7a672787b9</guid>
+            <pubDate>Mon, 16 Nov 2015 14:30:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meet Boltron - Jam3]]></title>
             <description><![CDATA[<article><h1>Meet Boltron - Jam3</h1><p>We're proud to announce the arrival of our new Creative Director, Greg Bolton, better known in our Slack channels as Boltron (true story bro). Greg brings more than 15 years of experience in the advertising and marketing business. He's held creative leadership positions at top-tier global agencies like Leo Burnett and Edelman.</p><img src="http://www.jam3.com/wp-content/uploads/2015/11/Greg-Bolton-e1446057330709.jpeg"></article>]]></description>
             <link>http://www.jam3.com/post/2015/11/meet-boltron/</link>
             <guid isPermaLink="false">63d12700-b133-4cff-a03a-016ec0a90f55</guid>
             <pubDate>Mon, 16 Nov 2015 14:22:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hello World]]></title>
-            <description><![CDATA[<article><h1>Hello World</h1><p>Here we go. I'm publishing my first-ever post on The Grid. Let's see how this shit shakes out.</p></article>]]></description>
-            <link>https://thegrid.ai/bloggerton/hello-world/index.html</link>
-            <guid isPermaLink="false">6f01f923-b005-463b-9abe-ef7a672787b9</guid>
-            <pubDate>Mon, 16 Nov 2015 14:14:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
