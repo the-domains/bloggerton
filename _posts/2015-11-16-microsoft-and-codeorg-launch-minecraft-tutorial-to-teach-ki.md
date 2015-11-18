@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://venturebeat.com/2015/11/16/microsoft-and-code-org-launch-minecraft-tutorial-to-teach-kids-how-to-code/'
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - minecraft
   - code
@@ -17,8 +17,8 @@ keywords:
   - research-based
   - sweden-based
 description: 'Microsoft has announced a partnership with Code.org that will see Minecraft arrive on the education agenda. Mojang, the Sweden-based game development studio that shot to prominence due to its work on Minecraft, was acquired by Microsoft for $2.5 billion last year.'
-datePublished: '2015-11-16T18:47:41.915Z'
-dateModified: '2015-11-16T18:47:36.920Z'
+datePublished: '2015-11-18T19:52:12.974Z'
+dateModified: '2015-11-18T19:52:01.370Z'
 author:
   - name: Paul Sawers
     url: 'http://venturebeat.com/author/paul-sawers/'
@@ -38,6 +38,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Microsoft and Code.org launch Minecraft tutorial to teach kids how to code</h1><p>Microsoft has announced a partnership with Code.org that will see Minecraft arrive on the education agenda. Mojang, the Sweden-based game development studio that shot to prominence due to its work on Minecraft, was acquired by Microsoft for $2.5 billion last year.</p><img src="http://i0.wp.com/venturebeat.com/wp-content/uploads/2015/11/Minecraft.jpeg?fit=780%2C9999" /></article>
+**Coding blocks**
 
-Great, bring it.
+<article style=""><h1>Microsoft and Code.org launch Minecraft tutorial to teach kids how to code</h1><p>Microsoft has announced a partnership with Code.org that will see Minecraft arrive on the education agenda. Mojang, the Sweden-based game development studio that shot to prominence due to its work on Minecraft, was acquired by Microsoft for $2.5 billion last year.</p><img src="http://i0.wp.com/venturebeat.com/wp-content/uploads/2015/11/Minecraft.jpeg?fit=780%2C9999" /></article>
