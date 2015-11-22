@@ -4,8 +4,15 @@
         <description><![CDATA[Greg Bolton, JAM3 CD]]></description>
         <link>https://thegrid.ai/bloggerton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 22:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Nov 2015 22:26:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bloggerton/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Map]]></title>
+            <description><![CDATA[<article><h1>Map</h1><p>Pretty cool.</p><img src="https://dw9l78t6vmi9o.cloudfront.net/design/30eec93669cc436b9768fa86384ab166/preview.png"></article>]]></description>
+            <link>https://preview.unmade.com/knitwear/jumpers/christopher-raeburn/map/89/</link>
+            <guid isPermaLink="false">457b6314-d81b-4e09-a27b-5ade5e653d3f</guid>
+            <pubDate>Sun, 22 Nov 2015 22:24:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Director Chris Milk Wants to Be Virtual Reality's First Auteur]]></title>
             <description><![CDATA[<article><h1>Director Chris Milk Wants to Be Virtual Reality's First Auteur</h1><p>It's been 30-odd years since Chris Milk played around with his grandfather's VHS camera trying to remake Michael Jackson's "Thriller" music video in his backyard. Two decades later, he created videos for musicians like Kanye West, U2, and Modest Mouse.</p><img src="http://media.vanityfair.com/photos/5652081e167233bb4b83a0c7/master/pass/eagles_of_death_metal_interview.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://medium.com/@usemuzli/mobile-interactions-of-the-week-3-4ab6da2358db</link>
             <guid isPermaLink="false">874b1ce3-b52a-4476-b2b6-ef28d7c416f3</guid>
             <pubDate>Mon, 16 Nov 2015 21:53:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[KOGUMA : The Piggybank For Wildlife]]></title>
-            <description><![CDATA[<article><h1>KOGUMA : The Piggybank For Wildlife</h1><p>David Bouvet is raising funds for KOGUMA : The Piggybank For Wildlife on Kickstarter! A designer piggybank to discover the arctic in augmented reality and donate to wildlife protection projects. Ethically made In France.</p><img src="https://ksr-ugc.imgix.net/projects/2057653/photo-original.jpg?v=1447378811&w=1536&h=1152&fit=crop&auto=format&q=92&s=6875c03dad5f99606d223a60a87bf51a"></article>]]></description>
-            <link>https://www.kickstarter.com/projects/1508155367/koguma-the-piggybank-for-wildlife?ref=producthunt</link>
-            <guid isPermaLink="false">11682168-4e7f-40b0-aded-59592331c1a1</guid>
-            <pubDate>Mon, 16 Nov 2015 21:22:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
