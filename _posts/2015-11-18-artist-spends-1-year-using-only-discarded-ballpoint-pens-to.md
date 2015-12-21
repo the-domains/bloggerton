@@ -17,8 +17,8 @@ keywords:
   - vulgaris
   - haeckl
 description: "When his designer friends questioned the utility of ballpoint pens, artist Raymond Cicin took that as a challenge. He collected their discarded ballpoint pens and spent more than a year creating this enormous and highly-detailed octopus drawing. This drawing isn't the only one - he has created other amazing artwork as well using nothing but these commonplace, lowly pens."
-datePublished: '2015-11-18T19:53:28.049Z'
-dateModified: '2015-11-18T19:53:23.945Z'
+datePublished: '2015-12-21T18:21:18.325Z'
+dateModified: '2015-12-21T18:21:09.996Z'
 author:
   - name: Dovas
     url: 'http://www.boredpanda.com/author/dovas/'
@@ -39,5 +39,3 @@ _type: MediaObject
 
 ---
 Look, it's the most Internetty thing ever.
-
-<article style=""><p>When his designer friends questioned the utility of ballpoint pens, artist Raymond Cicin took that as a challenge. He collected their discarded ballpoint pens and spent more than a year creating this enormous and highly-detailed octopus drawing. This drawing isn't the only one - he has created other amazing artwork as well using nothing but these commonplace, lowly pens.</p><img src="http://static.boredpanda.com/blog/wp-content/uploads/2015/11/ballpoint-pen-drawing-octopus-raymond-cicin-fb.jpg" /></article>
