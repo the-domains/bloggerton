@@ -1,7 +1,7 @@
 name: bloggerton
 favicon: null
-layout_spectrum: 0.95528
-typography_spectrum: 0.61743
+layout_spectrum: 0.70932
+typography_spectrum: 0.93814
 title: 'Greg Bolton, JAM3 CD'
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#00d1fb'
     - '#272302'
     - '#c8009b'
-  brandStrength: 0.1875
-  lightness: 0.9375
-  saturation: 0.8125
-  rhythmicContrast: 1
+  brandStrength: 0.5
+  lightness: 0.75
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
