@@ -4,8 +4,22 @@
         <description><![CDATA[Greg Bolton, JAM3 CD]]></description>
         <link>https://thegrid.ai/bloggerton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 14:05:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 14:05:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bloggerton/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lessons Learned from the Thin White Duke]]></title>
+            <description><![CDATA[<article><h1>Lessons Learned from the Thin White Duke</h1><p>Lessons Learned from the Thin White Duke - Medium</p></article>]]></description>
+            <link>https://medium.com/@bloggerton/lessons-learned-from-the-thin-white-duke-27a8534c986a#.8pkwjslc2</link>
+            <guid isPermaLink="false">6994989d-4a76-4896-83d4-d711c5489060</guid>
+            <pubDate>Wed, 13 Jan 2016 14:05:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Star Wars Battlefront Key Art by Brendan McCaffrey]]></title>
+            <description><![CDATA[<article><h1>Star Wars Battlefront Key Art by Brendan McCaffrey</h1><p>Abduzeedo is a blog about design. There are all sorts of articles for those who want to look for inspiration. Also you will find very useful tutorials for the most used applications out there, with a special selection of Photoshop Tutorials and Illustrator Tutorials.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/619702cc6e75cba6f891e20d9652ded16000d62a.jpg"></article>]]></description>
+            <link>http://abduzeedo.com/star-wars-battlefront-key-art-brendan-mccaffrey</link>
+            <guid isPermaLink="false">4c72ab58-f76d-4b4b-9f88-d602c6c7d685</guid>
+            <pubDate>Wed, 13 Jan 2016 14:05:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
@@ -61,13 +75,6 @@
             <link>http://www.boredpanda.com/365-photography-project-daily-life-darth-vader-pawel-kadysz/</link>
             <guid isPermaLink="false">7d98cffc-2199-4dee-9d4b-d6016be62896</guid>
             <pubDate>Wed, 18 Nov 2015 21:50:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artist Spends 1 Year Using Only Discarded Ballpoint Pens To Draw Giant Octopus]]></title>
-            <description><![CDATA[<article><h1>Artist Spends 1 Year Using Only Discarded Ballpoint Pens To Draw Giant Octopus</h1><p>Look, it's the most Internetty thing ever.</p></article>]]></description>
-            <link>http://www.boredpanda.com/ballpoint-pen-drawing-octopus-raymond-cicin/</link>
-            <guid isPermaLink="false">5dcf4927-32d3-4a5d-8b75-38ab330224ad</guid>
-            <pubDate>Mon, 21 Dec 2015 18:21:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
