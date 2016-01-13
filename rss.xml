@@ -4,7 +4,7 @@
         <description><![CDATA[Greg Bolton, JAM3 CD]]></description>
         <link>https://thegrid.ai/bloggerton/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 14:05:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 14:05:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bloggerton/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lessons Learned from the Thin White Duke]]></title>
@@ -12,6 +12,13 @@
             <link>https://medium.com/@bloggerton/lessons-learned-from-the-thin-white-duke-27a8534c986a#.8pkwjslc2</link>
             <guid isPermaLink="false">6994989d-4a76-4896-83d4-d711c5489060</guid>
             <pubDate>Wed, 13 Jan 2016 14:05:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://d13yacurqjgara.cloudfront.net/users/99875/screenshots/2383972/facebook-white.gif">]]></description>
+            <link>https://thegrid.ai/bloggerton/bd2f7a8a-7423-4c8b-a12d-1c03c5348ba6/index.html</link>
+            <guid isPermaLink="false">bd2f7a8a-7423-4c8b-a12d-1c03c5348ba6</guid>
+            <pubDate>Wed, 13 Jan 2016 14:05:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Star Wars Battlefront Key Art by Brendan McCaffrey]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>I Capture Stormtroopers On Their Days Off</h1><p>I'm Jorge Pérez Higuera a visual artist based on Guadalajara, Spain. I began this project in 2012 as my final year project for Photography at University but, to be honest, I no longer remember how I came up with the initial idea. I chose Stormtroopers for several reasons.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ba7a71deed5819758117b1041dd3314a1003b34.jpg"></article>]]></description>
             <link>http://www.boredpanda.com/the-other-side-stormtroopers-everyday-jorge-perez-higuera/</link>
             <guid isPermaLink="false">6dbb8158-1ee9-413a-b2d7-a3cb124728c1</guid>
-            <pubDate>Wed, 18 Nov 2015 21:50:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Daily Life Of Darth Vader Is My Latest 365-Day Photo Project]]></title>
-            <description><![CDATA[<article><h1>The Daily Life Of Darth Vader Is My Latest 365-Day Photo Project</h1><p>I finished my personal 365 project few weeks ago and almost immediately I decided to start another one. A daily life of Darth Vader portraying the Sith Lord as just a normal guy with everyday life problems. This is an ongoing project, updated with one new photo every day.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ecd7f2176c0ad124c38ece6a6b126ae80acad410.jpg"></article>]]></description>
-            <link>http://www.boredpanda.com/365-photography-project-daily-life-darth-vader-pawel-kadysz/</link>
-            <guid isPermaLink="false">7d98cffc-2199-4dee-9d4b-d6016be62896</guid>
             <pubDate>Wed, 18 Nov 2015 21:50:50 GMT</pubDate>
         </item>
     </channel>
