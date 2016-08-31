@@ -1,8 +1,30 @@
-name: bloggerton
-favicon: null
-layout_spectrum: 0.70932
 typography_spectrum: 0.93814
-title: 'Greg Bolton, JAM3 CD'
+color:
+  brandColors:
+    - '#ffffff'
+    - '#e9b197'
+    - '#00d1fb'
+    - '#272302'
+    - '#c8009b'
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 0.375
+  rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.70932
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: bloggerton
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#e9b197'
-    - '#00d1fb'
-    - '#272302'
-    - '#c8009b'
-  brandStrength: 0.5
-  lightness: 0.8125
-  saturation: 0.375
-  rhythmicContrast: 0.75
+title: Greg Bolton
 purpose: []
